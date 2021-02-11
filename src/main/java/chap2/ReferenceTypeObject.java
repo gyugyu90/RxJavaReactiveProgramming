@@ -1,4 +1,4 @@
-package chap1;
+package chap2;
 
 public class ReferenceTypeObject {
     private String value = "A";

@@ -1,4 +1,4 @@
-package chap1;
+package chap2;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;

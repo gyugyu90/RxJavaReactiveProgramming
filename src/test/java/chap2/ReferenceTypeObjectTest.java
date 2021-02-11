@@ -1,5 +1,6 @@
-package chap1;
+package chap2;
 
+import chap2.ReferenceTypeObject;
 import org.junit.jupiter.api.Test;
 
 import static org.hamcrest.MatcherAssert.assertThat;

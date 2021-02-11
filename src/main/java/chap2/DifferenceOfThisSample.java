@@ -1,4 +1,4 @@
-package chap1;
+package chap2;
 
 import io.reactivex.functions.Action;
 
